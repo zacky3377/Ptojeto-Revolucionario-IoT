@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: teal;
+}
+
+.cabecalho {
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    border-bottom: 3px solid orangered;
+}
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabecalho h1 { 
+    color: white;
+    margin-left: 120px;
+    padding-top: 15px;
+}
+h1 span {
+    color: orangered;
+}
+.style_button {
+    
+    float:right;
+    margin-right: 50px;
+    margin-top: -40px;
+}
+.botao {
+    background-color: transparent;
+    color: white;
+}
+.home {
+    color: orangered;
+    margin-right: 15px;
+}
+.sobre {
+    margin-right: 15px;
+}
+.contato {
+    margin-right: 15px;
+}
+.login {
+    margin-right: 15px;
+}
+.retangulo_dois {
+    width: 100%;
+    height: 85px;
+    background-color: black;
+}
+.botao_enviar {
+    background-color: orangered;
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    margin-top: 30px;
+    float:right;
+    margin-right: 150px;
+}
+
+.cabeçalho1-2 {
+    height: 100%;
+    background-color: black;
+    margin: 0 auto;
+    width: 85%;
+}
+
+.titulocab{
+    margin-top: 0;
+    padding-top: 20px ;
+    color: white;
+    float: left;
+}
+
+.cor-base{
+    color: orangered;
+
+}
+
+ul{
+    margin-top: 0;
+    padding-top: 30px;
+    padding-left: 1000px;
+    color: white;
+}
+
+ul li{
+    display: inline;
+    margin-right: 5px;
+
+}
+
+.cadastro {
+    margin-left: 130px;
+    margin-top: 40px;
+    margin-right: 150px;
+}
+
+.input {
+    height: 30px;
+    width: 500px;
+    border-radius: 10px;
+
+}
+
+.btn-cadastrar {
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+
+}
+
+.img_dashboard {
+   float: right;
+   margin-top: -350px;
+   height: 550px;
+   margin-left: 50px;
+   border-radius: 6px;
+}
+
+.retangulo_rod {
+    width: 100%;
+    height: 65px;
+    background-color: orangered;
+    margin-top: 230px;
+    padding-top: 20px;
+}
+
+.retangulo_rod p {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
