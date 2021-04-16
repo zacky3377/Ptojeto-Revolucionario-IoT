@@ -63,7 +63,7 @@ h1 span {
 }
 .apresentacao{
     background-size: cover;
-    background-image: url("./imagens/team.png");
+    background-image: url("../imagens/team.png");
     background-repeat: no-repeat;
     min-height: 400px;
 }
